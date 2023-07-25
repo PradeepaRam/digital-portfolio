@@ -1,0 +1,15 @@
+format: jb-book
+root: intro.md
+parts:
+  - caption: Information
+    chapters:
+    - file: about_me.md
+      title: About me
+    - file: cv.md
+      title: Curriculum Vitae
+  - caption: Example of Analysis
+    chapters:
+    - file: analysis_example.ipynb
+      title: Analysis_example 
+    - file: citations.md
+      title: Citations
